@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Lora:ital,wght@0,400..600;1,400..600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Lora", Georgia, serif;
+  --font-display: "Cinzel", "Playfair Display", serif;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-bg-app: #FAF7F2;
+  --color-txt-main: #3D2B1F;
+  --color-txt-coffee: #5C4033;
+  --color-gold-accent: #D4AF37;
+  --color-txt-sand: #A68A64;
+  --color-txt-muted: #8B7355;
+  --color-border-warm: #E6D5C3;
+  --color-cream-card: #FFF9E6;
+}
