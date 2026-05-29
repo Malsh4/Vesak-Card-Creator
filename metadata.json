@@ -1,0 +1,6 @@
+{
+  "name": "Vesak Card Maker",
+  "description": "Create and customize beautiful Vesak festival greeting cards to share with friends and family on WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
